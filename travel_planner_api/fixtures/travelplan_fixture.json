@@ -1,0 +1,53 @@
+[
+    {
+      "model": "travel_planner_api.travelplan",
+      "pk": 1,
+      "fields": {
+        "plan_name": "European Adventure",
+        "user": 3,
+        "destinations": [1, 5],
+        "activities": [1, 4, 7]
+      }
+    },
+    {
+      "model": "travel_planner_api.travelplan",
+      "pk": 2,
+      "fields": {
+        "plan_name": "Asian Exploration",
+        "user": 4,
+        "destinations": [2, 3],
+        "activities": [2, 3, 6]
+      }
+    },
+    {
+      "model": "travel_planner_api.travelplan",
+      "pk": 3,
+      "fields": {
+        "plan_name": "Historic Landmarks",
+        "user": 9,
+        "destinations": [11, 12],
+        "activities": [4, 5]
+      }
+    },
+    {
+      "model": "travel_planner_api.travelplan",
+      "pk": 4,
+      "fields": {
+        "plan_name": "Adventure in South America",
+        "user": 8,
+        "destinations": [6],
+        "activities": [1, 8]
+      }
+    },
+    {
+      "model": "travel_planner_api.travelplan",
+      "pk": 5,
+      "fields": {
+        "plan_name": "Oceania Relaxation",
+        "user": 10,
+        "destinations": [17],
+        "activities": [10]
+      }
+    }
+  ]
+  

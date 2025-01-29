@@ -1,0 +1,52 @@
+[
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 11,
+    "fields": { "landmark": "Petra", "country": "Jordan" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 12,
+    "fields": { "landmark": "Angkor Wat", "country": "Cambodia" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 13,
+    "fields": { "landmark": "Victoria Falls", "country": "Zambia/Zimbabwe" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 11,
+    "fields": { "landmark": "Statue of Liberty", "country": "USA" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 12,
+    "fields": { "landmark": "Colosseum", "country": "Italy" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 13,
+    "fields": { "landmark": "Christ the Redeemer", "country": "Brazil" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 14,
+    "fields": { "landmark": "Machu Picchu", "country": "Peru" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 15,
+    "fields": { "landmark": "Sydney Opera House", "country": "Australia" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 16,
+    "fields": { "landmark": "Big Ben", "country": "UK" }
+  },
+  {
+    "model": "travel_planner_api.destination",
+    "pk": 17,
+    "fields": { "landmark": "Mount Fuji", "country": "Japan" }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 1,
+    "fields": {
+      "activity_name": "Hiking",
+      "description": "Exploring trails and mountains"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 2,
+    "fields": {
+      "activity_name": "Photography",
+      "description": "Capturing moments"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 3,
+    "fields": {
+      "activity_name": "Scuba Diving",
+      "description": "Underwater exploration"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 4,
+    "fields": {
+      "activity_name": "Sightseeing",
+      "description": "Visiting landmarks"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 5,
+    "fields": {
+      "activity_name": "Cultural Tours",
+      "description": "Learning about cultures"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 6,
+    "fields": {
+      "activity_name": "Shopping",
+      "description": "Finding souvenirs"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 7,
+    "fields": {
+      "activity_name": "Food Tasting",
+      "description": "Enjoying local cuisine"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 8,
+    "fields": {
+      "activity_name": "Paragliding",
+      "description": "Flying above mountains"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 9,
+    "fields": {
+      "activity_name": "Skiing",
+      "description": "Sliding down snow slopes"
+    }
+  },
+  {
+    "model": "travel_planner_api.activity",
+    "pk": 10,
+    "fields": {
+      "activity_name": "Beach Relaxation",
+      "description": "Sunbathing on the beach"
+    }
+  }
+]

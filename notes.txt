@@ -1,0 +1,21 @@
+>>> from django.contrib.auth.hashers import make_password
+>>> print(make_password("john_does_password"))
+pbkdf2_sha256$870000$OCassjRvO3TVbnvaNVQJdl$OK3bVtUTjoP6U2WaiCzfVYlWCCHAzEsb5o80XTOSrDc=
+>>> print(make_password("jane_smiths_password"))
+pbkdf2_sha256$870000$iaba1Df6INiJGJoqzp7g7G$Y+781On5jKxRzx/MvAgCxPeKdoNcmpbXXsRkHE8ktBw=
+>>> print(make_password("traveler_123s_password"))
+pbkdf2_sha256$870000$waJXyI1tnyDpHLFzB3E7Ig$k7p0leowAvXZ1gANRnC14NmGPOs5/RhDXEL2PEV6Z58=
+>>> print(make_password("emma_watsons_password"))
+pbkdf2_sha256$870000$HwVqK6DO4eWwMWbxmJHDNK$iyg9AVMe+BezHenvVufLdMZTjkDKqbIxLt0FwqXvR4I=
+>>> print(make_password("charlie_browns_password"))
+pbkdf2_sha256$870000$PCmKhri4u46S07l6HRjKg1$bU2uaPzqTOk+QTFiq10f6n/M2VQeiMfpSzBnfIa37Ns=
+>>> print(make_password("lucas_password"))
+pbkdf2_sha256$870000$MbVqj49WL26oTiLYRbGvpS$TI3Q+4kKMOTD9o70zEz784xdJp/UFyX5lDMi87EH0HU=
+>>> print(make_password("sophies_password"))
+pbkdf2_sha256$870000$aH0y0gcj9POsHboM9yoYLF$YJdxOB3+Mi25dQKYlYb3Er2qBIpQwloxviVWvAIXqyU=
+>>> print(make_password("mike_travels_password"))
+pbkdf2_sha256$870000$hw5EtK3etObeTZxneqzmf5$0KCSqKXkMbCwh+ypaut8curircI2TazyAygrsA4Tczk=
+>>> print(make_password("ashleys_password"))
+pbkdf2_sha256$870000$61l0A0zRhvczzQ8VX6q9qk$1KzTJf2mStYdXm/msulhU+KQZIVh/aMoPgQEoplwn6I=
+>>> print(make_password("maxes_password"))
+pbkdf2_sha256$870000$B2SIVxMrMuvOKfpGWXyDmt$v+AfJYYEJcnAgY3D9NotjUEQ2vkNnxry5FSQmSHDbGs=

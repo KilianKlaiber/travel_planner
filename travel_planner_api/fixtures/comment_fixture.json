@@ -1,0 +1,63 @@
+[
+    {
+      "model": "travel_planner_api.comment",
+      "pk": 1,
+      "fields": {
+        "comment_name": "Excited for Paris!",
+        "text": "I can't wait to see the Eiffel Tower!",
+        "user": 3,
+        "destination": 1,
+        "travel_plan": 1,
+        "activity": 4
+      }
+    },
+    {
+      "model": "travel_planner_api.comment",
+      "pk": 2,
+      "fields": {
+        "comment_name": "Historic journey",
+        "text": "The Colosseum is a must-see for history lovers.",
+        "user": 9,
+        "destination": 5,
+        "travel_plan": 1,
+        "activity": 5
+      }
+    },
+    {
+      "model": "travel_planner_api.comment",
+      "pk": 3,
+      "fields": {
+        "comment_name": "Underwater beauty",
+        "text": "Scuba diving in Asia is breathtaking!",
+        "user": 4,
+        "destination": 3,
+        "travel_plan": 2,
+        "activity": 3
+      }
+    },
+    {
+      "model": "travel_planner_api.comment",
+      "pk": 4,
+      "fields": {
+        "comment_name": "Relaxation time",
+        "text": "Looking forward to sunbathing in Oceania.",
+        "user": 10,
+        "destination": 5,
+        "travel_plan": 5,
+        "activity": 10
+      }
+    },
+    {
+      "model": "travel_planner_api.comment",
+      "pk": 5,
+      "fields": {
+        "comment_name": "Culture and cuisine",
+        "text": "Exploring local culture and food is my favorite part of traveling.",
+        "user": 8,
+        "destination": 12,
+        "travel_plan": 4,
+        "activity": 7
+      }
+    }
+  ]
+  

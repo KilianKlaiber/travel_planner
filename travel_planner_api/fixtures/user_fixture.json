@@ -1,0 +1,152 @@
+[
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 3,
+    "fields": {
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password":"pbkdf2_sha256$870000$OCassjRvO3TVbnvaNVQJdl$OK3bVtUTjoP6U2WaiCzfVYlWCCHAzEsb5o80XTOSrDc=",
+      "first_name": "John",
+      "last_name": "Doe",
+      "bio": "Loves traveling",
+      "birthdate": "1990-01-01",
+      "sex": "M",
+      "favourite_destination": 1
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 4,
+    "fields": {
+      "username": "jane_smith",
+      "email": "jane@example.com",
+      "password":"pbkdf2_sha256$870000$iaba1Df6INiJGJoqzp7g7G$Y+781On5jKxRzx/MvAgCxPeKdoNcmpbXXsRkHE8ktBw=",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "bio": "Adventure enthusiast",
+      "birthdate": "1985-05-05",
+      "sex": "F",
+      "favourite_destination": 2
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 5,
+    "fields": {
+      "username": "traveler_123",
+      "email": "traveler@example.com",
+      "password":"pbkdf2_sha256$870000$waJXyI1tnyDpHLFzB3E7Ig$k7p0leowAvXZ1gANRnC14NmGPOs5/RhDXEL2PEV6Z58=",
+      "first_name": "Alex",
+      "last_name": "Wanderer",
+      "bio": "Exploring the world",
+      "birthdate": "1992-07-10",
+      "sex": "O",
+      "favourite_destination": 3
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 6,
+    "fields": {
+      "username": "emma_watson",
+      "email": "emma@example.com",
+      "password":"pbkdf2_sha256$870000$HwVqK6DO4eWwMWbxmJHDNK$iyg9AVMe+BezHenvVufLdMZTjkDKqbIxLt0FwqXvR4I=",
+      "first_name": "Emma",
+      "last_name": "Watson",
+      "bio": "",
+      "birthdate": null,
+      "sex": "F",
+      "favourite_destination": 4
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 7,
+    "fields": {
+      "username": "charlie_brown",
+      "email": "charlie@example.com",
+      "password":"pbkdf2_sha256$870000$PCmKhri4u46S07l6HRjKg1$bU2uaPzqTOk+QTFiq10f6n/M2VQeiMfpSzBnfIa37Ns=",
+      "first_name": "Charlie",
+      "last_name": "Brown",
+      "bio": "Avid photographer",
+      "birthdate": "1988-11-23",
+      "sex": "M",
+      "favourite_destination": 5
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 8,
+    "fields": {
+      "username": "lucas",
+      "email": "lucas@example.com",
+      "password":"pbkdf2_sha256$870000$MbVqj49WL26oTiLYRbGvpS$TI3Q+4kKMOTD9o70zEz784xdJp/UFyX5lDMi87EH0HU=",
+      "first_name": "Lucas",
+      "last_name": "Martinez",
+      "bio": "Food lover",
+      "birthdate": "1995-03-15",
+      "sex": "M",
+      "favourite_destination": 6
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 9,
+    "fields": {
+      "username": "sophie",
+      "email": "sophie@example.com",
+      "password":"pbkdf2_sha256$870000$aH0y0gcj9POsHboM9yoYLF$YJdxOB3+Mi25dQKYlYb3Er2qBIpQwloxviVWvAIXqyU=",
+      "first_name": "Sophie",
+      "last_name": "Meyer",
+      "bio": "History buff",
+      "birthdate": "1993-08-25",
+      "sex": "F",
+      "favourite_destination": 11
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 10,
+    "fields": {
+      "username": "mike_travel",
+      "email": "mike@example.com",
+      "password":"pbkdf2_sha256$870000$hw5EtK3etObeTZxneqzmf5$0KCSqKXkMbCwh+ypaut8curircI2TazyAygrsA4Tczk=",
+      "first_name": "Mike",
+      "last_name": "Traveler",
+      "bio": "Frequent flyer",
+      "birthdate": null,
+      "sex": "M",
+      "favourite_destination": 12
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 11,
+    "fields": {
+      "username": "ashley",
+      "email": "ashley@example.com",
+      "password":"pbkdf2_sha256$870000$61l0A0zRhvczzQ8VX6q9qk$1KzTJf2mStYdXm/msulhU+KQZIVh/aMoPgQEoplwn6I=",
+      "first_name": "Ashley",
+      "last_name": "Smith",
+      "bio": "Nature lover",
+      "birthdate": "1987-12-20",
+      "sex": "F",
+      "favourite_destination": 13
+    }
+  },
+  {
+    "model": "travel_planner_api.customuser",
+    "pk": 12,
+    "fields": {
+      "username": "max",
+      "email": "max@example.com",
+      "password":"pbkdf2_sha256$870000$B2SIVxMrMuvOKfpGWXyDmt$v+AfJYYEJcnAgY3D9NotjUEQ2vkNnxry5FSQmSHDbGs=",
+      "first_name": "Max",
+      "last_name": "Schneider",
+      "bio": "",
+      "birthdate": null,
+      "sex": "O",
+      "favourite_destination": 14
+    }
+  }
+]
